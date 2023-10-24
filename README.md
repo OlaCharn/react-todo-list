@@ -6,7 +6,7 @@ I have made this project to learn React by building applications.
 
 
 
-⭐ Deployed at: (<https://doka.guide>)
+⭐ Deployed at: (<https://todo-list-olacharn.netlify.app/>)
 
 ## 🚀Getting Started 
 
