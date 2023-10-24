@@ -29,11 +29,16 @@ The app will be available at [http://localhost:3000](http://localhost:3000) in y
 
 ## 👍Usage 
 
-1.**Adding a Task:** 
+## 👍Usage 
+
+### 1.**Adding a Task:** 
 To add a new task, enter the task text in the input field at the top of the application and press "Add" or press the Enter key.
-2.  **Deleting a Task:** To delete a task, click the button DELETE 
-3.  **Marking a Task as Done:** To mark a task as done, simply click on it. The background color will change to indicate completion.
-4.  **Clearing All Tasks:** To clear all tasks at once, click the "CLEAR LIST" button.
+### 2.  **Deleting a Task:** 
+To delete a task, click the button DELETE 
+### 3.  **Marking a Task as Done:** 
+To mark a task as done, simply click on it. The background color will change to indicate completion.
+### 4.  **Clearing All Tasks:** 
+To clear all tasks at once, click the "CLEAR LIST" button.
 
 
 🧡Feel free to create issues and contributions for features or bugs to this project.🧡
