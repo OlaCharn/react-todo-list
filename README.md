@@ -27,7 +27,6 @@ after successfully installing the dependencies, start the application with the f
 
 The app will be available at [http://localhost:3000](http://localhost:3000) in your web browser.
 
-## 👍Usage 
 
 ## 👍Usage 
 
