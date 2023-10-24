@@ -1,0 +1,73 @@
+li{
+    list-style:  none;
+}
+.containerParent{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+}
+h1{
+    border-bottom: 1px solid grey;
+    padding: 15px;
+    font-size: 50px;
+    width: 600px;
+    text-align: center;
+    color: rgb(63, 63, 65);
+}
+.inputBlock{
+    border: 1px solid grey;
+    border-radius: 7px;
+    width: 600px;
+    font-size: 25px;
+    padding: 15px 15px;
+    margin-bottom: 20px;
+}
+
+.buttonADD{
+    background-color: rgb(63, 63, 65);
+    padding: 10px;
+    border-radius: 7px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.buttonADD:hover{
+    background-color: green;
+    border: none;
+}
+.buttonDELETE{
+    background-color: rgb(63, 63, 65);
+    padding: 10px;
+    border-radius: 7px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.buttonDELETE:hover{
+    background-color: rgb(221, 52, 46);
+    border: none;
+}
+
+.liItem{
+    width: 600px;
+    font-size: 25px;
+    padding: 15px 15px;
+    margin-left: -40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(217, 217, 223, 0.918);
+    border: 0.5px solid grey;
+}
+.crossed{
+    /*text-decoration: line-through 2px red;
+    -webkit-text-decoration-line: line-through;
+    -webkit-text-decoration-color: red;
+    -webkit-text-decoration-thickness:2px;*/
+    background-color: green;
+}
