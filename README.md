@@ -11,19 +11,29 @@ I have made this project to learn React by building applications.
 ## 🚀Getting Started 
 
 
-clone repository
+clone this repository to your computer:
 > git clone https://github.com/OlaCharn/react-todo-list.git
  
- enter 
+ navigate to the project directory
 > cd react-todo-list
 
-execute npm install to install all dependencies
+install dependencies using npm
 
 >npm install
 
-execute npm start   [http://localhost:3000/](http://localhost:3000/)
+after successfully installing the dependencies, start the application with the following command:   
 
 >npm start
+
+The app will be available at [http://localhost:3000](http://localhost:3000) in your web browser.
+
+## 👍Usage 
+
+1.**Adding a Task:** 
+To add a new task, enter the task text in the input field at the top of the application and press "Add" or press the Enter key.
+2.  **Deleting a Task:** To delete a task, click the button DELETE 
+3.  **Marking a Task as Done:** To mark a task as done, simply click on it. The background color will change to indicate completion.
+4.  **Clearing All Tasks:** To clear all tasks at once, click the "CLEAR LIST" button.
 
 
 🧡Feel free to create issues and contributions for features or bugs to this project.🧡
